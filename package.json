@@ -1,0 +1,27 @@
+{
+  "name": "depo",
+  "version": "1.0.0",
+  "description": "Historical commodity and stock price data visualization system - Backend API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start:api": "uvicorn main:app --reload"
+  },
+  "keywords": [
+    "commodity",
+    "stock",
+    "historical-data",
+    "api",
+    "fastapi",
+    "visualization"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/depo.git"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

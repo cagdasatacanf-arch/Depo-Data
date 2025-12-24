@@ -1,0 +1,43 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (for frontend tooling)
+node_modules/
+package-lock.json
+
+# Data (optional - uncomment if you don't want to commit large datasets)
+# Database/data/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
