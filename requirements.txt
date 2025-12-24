@@ -3,13 +3,10 @@ fastapi>=0.104.0
 uvicorn[standard]>=0.24.0
 python-multipart
 
-# Data Processing
-pandas>=2.0.0
-numpy
-
 # Data Validation
 pydantic>=2.4.0
 pydantic-settings
 
 # Utilities
 python-dateutil
+

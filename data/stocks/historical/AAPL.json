@@ -1,0 +1,99 @@
+{
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "exchange": "NASDAQ",
+    "currency": "USD",
+    "updated": "2025-12-24",
+    "data": [
+        {
+            "date": "2025-12-24",
+            "open": 245.50,
+            "high": 247.30,
+            "low": 244.80,
+            "close": 246.15,
+            "volume": 52341000,
+            "adjusted_close": 246.15
+        },
+        {
+            "date": "2025-12-23",
+            "open": 244.10,
+            "high": 246.05,
+            "low": 243.50,
+            "close": 245.80,
+            "volume": 48920000,
+            "adjusted_close": 245.80
+        },
+        {
+            "date": "2025-12-22",
+            "open": 242.80,
+            "high": 244.90,
+            "low": 241.60,
+            "close": 244.25,
+            "volume": 55102000,
+            "adjusted_close": 244.25
+        },
+        {
+            "date": "2025-12-19",
+            "open": 240.50,
+            "high": 243.10,
+            "low": 239.90,
+            "close": 242.75,
+            "volume": 61234000,
+            "adjusted_close": 242.75
+        },
+        {
+            "date": "2025-12-18",
+            "open": 238.90,
+            "high": 241.45,
+            "low": 238.50,
+            "close": 240.60,
+            "volume": 49876000,
+            "adjusted_close": 240.60
+        },
+        {
+            "date": "2025-12-17",
+            "open": 237.50,
+            "high": 239.80,
+            "low": 236.90,
+            "close": 238.85,
+            "volume": 45678000,
+            "adjusted_close": 238.85
+        },
+        {
+            "date": "2025-12-16",
+            "open": 239.10,
+            "high": 240.20,
+            "low": 237.40,
+            "close": 238.10,
+            "volume": 51234000,
+            "adjusted_close": 238.10
+        },
+        {
+            "date": "2025-12-15",
+            "open": 241.40,
+            "high": 242.50,
+            "low": 239.80,
+            "close": 240.15,
+            "volume": 47890000,
+            "adjusted_close": 240.15
+        },
+        {
+            "date": "2025-12-12",
+            "open": 243.20,
+            "high": 244.15,
+            "low": 241.90,
+            "close": 242.30,
+            "volume": 53456000,
+            "adjusted_close": 242.30
+        },
+        {
+            "date": "2025-12-11",
+            "open": 240.80,
+            "high": 243.60,
+            "low": 240.50,
+            "close": 243.05,
+            "volume": 58901000,
+            "adjusted_close": 243.05
+        }
+    ]
+}

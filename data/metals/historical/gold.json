@@ -1,0 +1,89 @@
+{
+    "symbol": "XAU",
+    "name": "Gold",
+    "unit": "USD/oz",
+    "type": "precious_metal",
+    "updated": "2025-12-24",
+    "data": [
+        {
+            "date": "2025-12-24",
+            "open": 2065.50,
+            "high": 2078.20,
+            "low": 2063.40,
+            "close": 2075.85,
+            "bid_ask_spread": 0.50
+        },
+        {
+            "date": "2025-12-23",
+            "open": 2055.10,
+            "high": 2068.40,
+            "low": 2052.00,
+            "close": 2066.20,
+            "bid_ask_spread": 0.45
+        },
+        {
+            "date": "2025-12-22",
+            "open": 2048.00,
+            "high": 2058.90,
+            "low": 2045.50,
+            "close": 2054.30,
+            "bid_ask_spread": 0.55
+        },
+        {
+            "date": "2025-12-19",
+            "open": 2035.20,
+            "high": 2050.10,
+            "low": 2032.80,
+            "close": 2047.50,
+            "bid_ask_spread": 0.50
+        },
+        {
+            "date": "2025-12-18",
+            "open": 2028.90,
+            "high": 2038.45,
+            "low": 2025.50,
+            "close": 2034.60,
+            "bid_ask_spread": 0.60
+        },
+        {
+            "date": "2025-12-17",
+            "open": 2018.50,
+            "high": 2032.80,
+            "low": 2015.90,
+            "close": 2029.85,
+            "bid_ask_spread": 0.50
+        },
+        {
+            "date": "2025-12-16",
+            "open": 2025.10,
+            "high": 2028.20,
+            "low": 2016.40,
+            "close": 2019.10,
+            "bid_ask_spread": 0.45
+        },
+        {
+            "date": "2025-12-15",
+            "open": 2035.40,
+            "high": 2038.50,
+            "low": 2022.80,
+            "close": 2024.15,
+            "bid_ask_spread": 0.55
+        },
+        {
+            "date": "2025-12-12",
+            "open": 2045.20,
+            "high": 2048.15,
+            "low": 2033.90,
+            "close": 2036.30,
+            "bid_ask_spread": 0.50
+        },
+        {
+            "date": "2025-12-11",
+            "open": 2038.80,
+            "high": 2047.60,
+            "low": 2035.50,
+            "close": 2046.05,
+            "bid_ask_spread": 0.65
+        }
+    ]
+}
